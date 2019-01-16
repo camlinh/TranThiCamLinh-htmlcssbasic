@@ -1,5 +1,8 @@
 header,nav,body{
 	display: block;}
+body{
+margin:0;
+}
 .header{
 	
 	background-color:#ffaaaa;
